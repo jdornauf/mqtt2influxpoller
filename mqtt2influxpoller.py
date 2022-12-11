@@ -5,7 +5,7 @@ from typing import NamedTuple
 import paho.mqtt.client as mqtt
 from influxdb import InfluxDBClient
 
-INFLUXDB_ADDRESS = '192.168.10.85'
+INFLUXDB_ADDRESS = '192.168.10.70'
 INFLUXDB_PORT = 8086
 INFLUXDB_USER = ''
 INFLUXDB_PASSWORD = ''
